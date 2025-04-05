@@ -1,55 +1,28 @@
-**Food Waste Tracker**
-A simple Python application that helps users track food waste, provides reduction tips, and generates weekly summaries of food waste. This project uses SQLite for data storage and allows users to register, log food waste, and view summaries of their waste patterns.
+**🍽️ Food Waste Tracker**
+A smart and interactive AI-powered web application to analyze food items and predict expiry by uploading a photo!
+This project helps in reducing food wastage by providing real-time tracking with a friendly chatbot assistance.
 
-**Features**
-User Registration and Authentication: Allows users to register with a username and password, and log in to track their food waste.
+**🌟 Features**
+📸 Upload food images to check freshness and estimate expiry.
 
-**Food Waste Logging:** Users can log food waste by specifying the food item and quantity wasted.
+🤖 AI Chatbot to assist users and provide expiry info.
 
-**Weekly Summary:** Generates a weekly summary of the food items wasted and the total quantity for each.
+✨ Cool animated landing page for better user experience.
 
-**Reduction Tips:** Provides tips on how to reduce food waste for specific food items.
+🌐 User-friendly, responsive website built with Flask & HTML/CSS.
 
-**Data Visualization:** Displays a bar chart representing the weekly food waste data.
+🔥 API Integration for smart food detection.
 
-**Requirements**
-Python 3.x
-SQLite (comes pre-installed with Python)
-Matplotlib (for data visualization)
+📈 Reduces food waste and encourages sustainable habits.
 
-You can install Matplotlib by running:
-    pip install matplotlib
-    
-**Setup**
+**📸 Demo**
+(You can add screenshots or GIFs of your website here later)
 
-**Clone the repository to your local machine:**
-git clone https://github.com/vineet1603/food-waste-tracker.git
-cd food-waste-tracker
+**🛠️ Tech Stack**
+Backend: Python (Flask)
 
-Install the required dependencies (Matplotlib):
+Frontend: HTML5, CSS3, JavaScript
 
-pip install matplotlib
+AI/ML: Image Analysis using API
 
-**Run the application:**
-
-python food_waste_tracker.py
-
-**Usage**
-**1. Registration and Login**
-When you first run the program, you will be prompted to either register or log in.
-
-**Register:** Create a new account with a unique username and password.
-
-**Login:** Log in with an existing account.
-
-**2. Logging Food Waste**
-    Once logged in, you can log food waste:
-    Enter the food item that you wasted.
-    Specify the quantity of the food waste (in kilograms).
-
-**3. Weekly Summary**
-You can view a summary of your food waste for the past week, including the total quantity wasted for each food item. A bar chart will be displayed as a visual representation of the waste data.
-
-**4. Food Waste Reduction Tips**
-After logging a food waste entry, the program will provide tips on how to reduce waste for that food item (e.g., freezing bread, repurposing vegetables, etc.).
-
+Version Control: Git & GitHub
