@@ -23,7 +23,7 @@ You can install Matplotlib by running:
 **Setup**
 
 **Clone the repository to your local machine:**
-git clone https://github.com/yourusername/food-waste-tracker.git
+git clone https://github.com/vineet1603/food-waste-tracker.git
 cd food-waste-tracker
 
 Install the required dependencies (Matplotlib):
